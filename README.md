@@ -6,7 +6,11 @@ List of Drone Uses
 <details>
 <summary>Table of Content(Expandable)</summary>
 
-* Safety
+* [Agriculture](#agriculture)
+* [Delivery](#delivery)
+* [Photography & Video](#photography--video)
+* [Safety](#safety)
+* [Surveying](#surveying)
 </details>
 
 # Agriculture
