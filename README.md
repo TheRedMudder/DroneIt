@@ -4,7 +4,7 @@
 List of Drone Uses
 
 <details>
-<summary>Table of Content(Expandable)</summary>
+<summary>Categories(Expandable)</summary>
 
 * [Agriculture](#agriculture)
 * [Delivery](#delivery)
