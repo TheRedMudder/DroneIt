@@ -1,5 +1,5 @@
 
-<img align="right" src="https://i.imgur.com/p8jenZt.png" width=15%>
+<img align="right" src="https://i.imgur.com/p8jenZt.png" style="width=15%">
 
 # DroneIt
 List of Drone Uses
