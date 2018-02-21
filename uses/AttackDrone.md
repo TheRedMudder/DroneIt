@@ -1,10 +1,10 @@
 ---
 date: 2018-02-19
 title: AttackDrone
+description: Attacks other drones entering premises
 tags: [
     "safety",
 ]
-description: Attacks other drones entering premises
 ---
 
 <img align="right" src="https://i.imgur.com/p8jenZt.png" style="width: 15%;">
