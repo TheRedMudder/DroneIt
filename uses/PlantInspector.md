@@ -1,6 +1,7 @@
 ---
 date: 2018-02-19
 title: PlantInspector
+description: Inspects crop health, heat signatures(to calculate ideal water requirments for given regions), etc
 tags: [
     "agriculture",
 ]
