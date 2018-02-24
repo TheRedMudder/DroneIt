@@ -9,6 +9,8 @@ tags: [
 <img align="right" src="https://i.imgur.com/p8jenZt.png" style="width: 15%;">
 A drone that inspects various structures and infastructures such as cell towers, power lines, pipelines, and wind turbines.
 
+# Uses
+- Too many to list.
 # Current Developments
 
 [![UAV Drone Wind Turbine Inspection](https://i.imgur.com/pYmULGJ.png)](
