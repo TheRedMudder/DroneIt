@@ -12,6 +12,7 @@ A drone that identifies sharks, drowning people, and hazzardous conditions. It r
 
 # Uses
 - Beaches
+- Large bodies of water
 
 # Current Developments
 - [Drone saves two Australian swimmers in world first](http://www.bbc.com/news/world-australia-42731112)
