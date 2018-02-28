@@ -15,7 +15,7 @@ List of Drone Uses
 </details>
 
 # Agriculture
-PlantInspector - Inspects crop health, heat signatures(to calculate ideal water requirments for given regions), etc
+* [PlantInspector](uses/PlantInspector.md) - Inspects crop health, heat signatures(to calculate ideal water requirments for given regions), etc
 # Delivery
 
 # Photography & Video
