@@ -2,6 +2,7 @@
 <img align="right" src="https://i.imgur.com/p8jenZt.png" style="width=15%">
 
 # DroneIt
+This repo serves to manage the content for droneit.ronjdias.com using HUGO as a CMS! See [Contribution.md](CONTRIBUTING.md) for guidelines on contributions!
 List of Drone Uses
 
 <details>
