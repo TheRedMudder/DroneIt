@@ -4,7 +4,7 @@
 # DroneIt
 This repo serves to manage the content for droneit.ronjdias.com using HUGO as a CMS! See [Contribution.md](CONTRIBUTING.md) for guidelines on contributions! 
 
-![DroneIt Website](https://imgur.com/YFboEyr.png")
+[![DroneIt Website](https://imgur.com/YFboEyr.png")](http://droneit.ronjdias.com/)
 
 
 List of Drone Uses
